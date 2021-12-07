@@ -16,19 +16,16 @@ https://drive.google.com/file/d/1CBVHEZijJT4iqz2CV-Do-rKIet079M6K/view?usp=shari
     pip install -r requirements.txt
 6. Jalankan API menggunakan perintah
     python app.py
-7. Akses web di localhost:5000/
-  
-Buka URL dengan browser, coba masukkan data yang ingin di prediksi
-Anda akan diberikan estimasi biaya asuransi pada sisi kanan halaman website. 
- 
-**## Deployment menggunakan heroku:**
+7. Akses web di localhost:5000
+## Deployment menggunakan heroku:**
 1. Bukalah aplikasi heroku.com 
 2. Kemudian buatlah app pada halaman dashboard. 
 3. Setelah itu, login dengan heroku cli. 
     heroku login
-4. Kemudian ikuti perintah dibawah ini 
-    heroku git:clone -a <App name>
-    git add .
-    git commit -am "make it better"
-    git push heroku master
+4. Kemudian ikuti perintah dibawah ini.
+    
+    - heroku git:clone -a <App name>
+    - git add .
+    - git commit -am "make it better"
+    - git push heroku master
     
