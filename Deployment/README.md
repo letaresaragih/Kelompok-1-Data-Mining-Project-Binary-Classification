@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1CBVHEZijJT4iqz2CV-Do-rKIet079M6K/view?usp=shari
 3. Setelah itu, login dengan heroku cli. 
     heroku login
 4. Kemudian ikuti perintah dibawah ini.
-        - heroku git:clone -a <App name>
+    - heroku git:clone -a _App name_
     - git add .
     - git commit -am "make it better"
     - git push heroku master
