@@ -84,7 +84,7 @@ Tampilan deployment yang dilakukan adalah sebagai berikut
 ![image](https://user-images.githubusercontent.com/60679635/144964360-e9afa726-6c06-4111-a712-51d9f62dec08.png)
 
 
-Untuk informasi lebih lanjut mengenai instalisasi dapat dilihat pada [README,MD](Deployment/README.md) di folder Deployment pada repositori ini.
+Untuk informasi lebih lanjut mengenai instalisasi dapat dilihat pada [README.md](Deployment/README.md) di folder Deployment pada repositori ini.
 
 ### Team & Anggota
 Anggota:
