@@ -68,10 +68,12 @@ c. Hasil penilaian dengan akurasi dari data latih dan data uji
 
 ### 5. MODEL EVALUATION
 Evaluasi Model dilakukan dengan melihat confusion matrix dan AUC Score. Untuk nilai akurasi pada data testing yang dilakukan adalah sebesar 68% 
+
 ![image](https://user-images.githubusercontent.com/60679635/144964233-ab3878e2-325d-4cbc-bac8-16484c6ae84c.png)
 
 Hasil uji sebanyak 30% data uji (60.064 sampel). 
 Terdapat sebanyak 49.245 data yang di prediksi akurat. Sedangkan terdapat  9.921 sampel yang tidak valid pada saat dilakukan pengujian. 
+
 ![image](https://user-images.githubusercontent.com/60679635/144964276-d5c7f7f9-f072-4283-a5b3-a5f34bd982c5.png)
 
 
